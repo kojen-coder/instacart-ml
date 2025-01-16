@@ -19,11 +19,11 @@ This project aims to predict the likelihood of customers reordering products in 
       <li><b>Tools:</b> Jupyter Notebook, Git</li>
     </ul>
   </li>
-  <li><b>My Role:</b> Data Scientist leading the model development pipeline:
+  <li><b>My Role:</b> As a <b>Data Scientist</b>,  I led the model development pipeline, including:
     <ul>
-      <li>Feature engineering.</li>
-      <li>Baseline and advanced modeling.</li>
-      <li>Optimization and evaluation.</li>
+      <li>Feature engineering to create meaningful input variables.</li>
+      <li>Development of baseline and advanced recommendation models.</li>
+      <li>Optimization and evaluation to maximize precision, recall, and overall performance.</li>
     </ul>
   </li>
 </ul>
